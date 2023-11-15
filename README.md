@@ -45,7 +45,7 @@ Docummentation des api avec swagger:
 
 ![image](https://github.com/Ghaziyassine/exam/assets/114885285/4cd607b7-3c2f-4ccf-9373-e3d5219d5cb2)
 
-![image](https://github.com/Ghaziyassine/exam/assets/114885285/75d4b28c-8505-4cbe-912f-e444790ea9ec)
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/a4783af2-7902-4b7b-9899-2d495acecfe3)
 
 
 affichage des articles:
@@ -75,6 +75,13 @@ supression d'une article par id:
 
 filtrage des produits entre deux dates spécifiques:
 ![image](https://github.com/Ghaziyassine/exam/assets/114885285/e3375e68-c6a2-4eb1-ae6c-1da66e85c87d)
+
+affichage des articles par catégorie:
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/7fa34eae-0624-4e21-a1e1-5323f44fb8f8)
+
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/1b9d1378-27d4-40aa-aecc-5af337aa8c89)
+
+
 
 ## Installation
 
