@@ -88,7 +88,7 @@ affichage des articles par catégorie:
 1. Clonez ce référentiel sur votre machine locale.
 
 ```shell
-git clone https://github.com/Ghaziyassine/TP-Spring-boot-Swagger.git
+git clone https://github.com/Ghaziyassine/exam.git
 ```
 ## Auteurs
 
