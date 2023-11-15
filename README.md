@@ -63,13 +63,13 @@ affichage d'article par id:
 ![image](https://github.com/Ghaziyassine/exam/assets/114885285/97eea730-cfb9-4e35-ae7f-2bf29ae20b77)
 
 
-creation d'une article:
+creation d'un article:
 ![image](https://github.com/Ghaziyassine/exam/assets/114885285/75209886-ec45-4854-ab1b-6a0e12955a55)
 
-modification d'une article par id:
+modification d'un article par id:
 ![image](https://github.com/Ghaziyassine/exam/assets/114885285/79560397-3432-479b-ae6f-ad15c092df21)
 
-supression d'une article par id:
+supression d'un article par id:
 ![image](https://github.com/Ghaziyassine/exam/assets/114885285/8020f3dd-d044-4c31-8d1e-7110bd5ee8bb)
 
 
