@@ -41,13 +41,40 @@ Le projet utilise les technologies suivantes :
 concepton du projet:
 ![image](https://github.com/Ghaziyassine/exam/assets/114885285/b7fcfd6b-0a1b-41d4-9c63-68f0ded3a399)
 
+Docummentation des api avec swagger:
+
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/4cd607b7-3c2f-4ccf-9373-e3d5219d5cb2)
+
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/75d4b28c-8505-4cbe-912f-e444790ea9ec)
+
+
 affichage des articles:
+
 ![image](https://github.com/Ghaziyassine/exam/assets/114885285/223cbf96-cb65-49fd-9b0a-4c41169add63)
 
+
+
 affichage des categories:
-![image](https://github.com/Ghaziyassine/exam/assets/114885285/e4dddc34-5f9e-4ed6-beed-24fbb61928df)
+
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/4bedf87e-602f-4034-94dc-945041df9bb3)
 
 
+affichage d'article par id:
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/97eea730-cfb9-4e35-ae7f-2bf29ae20b77)
+
+
+creation d'une article:
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/75209886-ec45-4854-ab1b-6a0e12955a55)
+
+modification d'une article par id:
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/79560397-3432-479b-ae6f-ad15c092df21)
+
+supression d'une article par id:
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/8020f3dd-d044-4c31-8d1e-7110bd5ee8bb)
+
+
+filtrage des produits entre deux dates spécifiques:
+![image](https://github.com/Ghaziyassine/exam/assets/114885285/e3375e68-c6a2-4eb1-ae6c-1da66e85c87d)
 
 ## Installation
 
